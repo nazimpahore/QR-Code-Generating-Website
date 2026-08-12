@@ -41,7 +41,7 @@
 
 ## 🌐 Demo
 
-🔗 **Live Site:** [Your Vercel URL Here](#)
+🔗 **Live Site:** https://qr-code-generating-website.vercel.app/
 
 <!-- Add a screenshot of your app here -->
 <!-- ![QRcraft Screenshot](./screenshot.png) -->
