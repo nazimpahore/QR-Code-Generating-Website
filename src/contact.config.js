@@ -10,4 +10,4 @@
 //
 // ─────────────────────────────────────────────────────────────────────────────
 
-export const WEB3FORMS_ACCESS_KEY = "YOUR_WEB3FORMS_ACCESS_KEY_HERE";
+export const WEB3FORMS_ACCESS_KEY = "c0b2cce1-8017-4622-be3b-f5f9bf4e82b0";
