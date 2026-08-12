@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage / Main QR Generator Tool -->
+  <url>
+    <loc>https://qrcraft.app/</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://qrcraft.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://qrcraft.app/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://qrcraft.app/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://qrcraft.app/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://qrcraft.app/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://qrcraft.app/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://qrcraft.app/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://qrcraft.app/?lang=ur"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://qrcraft.app/?lang=pt"/>
+  </url>
+
+  <!-- Saved QR Codes Page -->
+  <url>
+    <loc>https://qrcraft.app/#saved</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://qrcraft.app/#about</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://qrcraft.app/#contact</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
