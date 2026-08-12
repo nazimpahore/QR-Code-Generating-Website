@@ -10,4 +10,6 @@
 //
 // ─────────────────────────────────────────────────────────────────────────────
 
-export const WEB3FORMS_ACCESS_KEY = "c0b2cce1-8017-4622-be3b-f5f9bf4e82b0";
+export const WEB3FORMS_ACCESS_KEY = "f822ffff-6e02-496d-bacf-7c558e50b5aa";
+
+
